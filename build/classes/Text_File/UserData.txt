@@ -1,0 +1,4 @@
+tp000;admin;admin1234;Admin;0107882633;admin@gmail.com;None;ADMIN
+tp001;chibi;chibi1234;Chibi Chan; 0107998533;chibi@gmail.com;Software Engineering;STUDENT
+tp002;nathe;nathe1234;Nathe Chan; 0127882651;nathe@gmail.com;Data Analytic;STUDENT
+tp003;faisal;faisal1234;Faisal Fuiyoooh;0192773622;faisal@gmail.com;Information Technology;STUDENT
